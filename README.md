@@ -19,7 +19,7 @@ You may share and adapt the material for non-commercial purposes, but must credi
 ---
 
 ## Repository Contents
-- `whitepaper/VPM_Theory_Whitepaper.md` — Full expanded theory
-- `images/` — Conceptual and symbolic illustrations of key VPM concepts
-- `LICENSE` — License details
-- `GLOSSARY.md` — Definitions of all key VPM terms and concepts
+- [`whitepaper/VPM_Theory_Whitepaper.md`](whitepaper/VPM_Theory_Whitepaper.md) — Full expanded theory
+- [`images/`](images/) — Conceptual and symbolic illustrations of key VPM concepts
+- [`LICENSE`](LICENSE) — License details
+- [`GLOSSARY.md`](GLOSSARY.md) — Definitions of all key VPM terms and concepts
