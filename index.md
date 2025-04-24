@@ -21,7 +21,7 @@ This model challenges the idea that consciousness arises solely from brain matte
 
 - 📄 [Full Whitepaper](whitepaper/VPM_Theory_Whitepaper.md)
 - 📘 [Glossary of Terms](GLOSSARY.md)
-- 🖼 [Symbolic Illustrations](images/)
+- 🖼 [Symbolic Illustrations](gallery.md)
 - 📜 [License](LICENSE)
 
 ---
