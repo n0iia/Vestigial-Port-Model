@@ -2,6 +2,12 @@
 **by Vinnie**  
 *Published April 12, 2025*
 
+[![View the Live Site](https://img.shields.io/badge/View-GitHub%20Pages-blue)](https://n0iia.github.io/Vestigial-Port-Theory/)
+
+A speculative framework for consciousness, simulation theory, and pineal signal transduction.
+
+---
+
 ## Abstract
 The Vestigial Port Model (VPM) proposes that the pineal gland serves as a biological interface connecting human consciousness to a base, non-local reality. This theory incorporates neuroscience, quantum frameworks, and ancient metaphysical insight, suggesting that consciousness is externally sourced and transduced biologically. The Dimensional Memory Protocol (DMP) is introduced as a method for accessing deeper layers of simulated or quantum-encoded experience.
 
