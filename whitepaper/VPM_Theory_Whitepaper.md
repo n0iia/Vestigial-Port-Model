@@ -5,7 +5,7 @@
 ## Abstract
 This paper introduces the Vestigial Port Model (VPM), a novel interdisciplinary framework proposing that the pineal gland functions as a biological interface linking human consciousness to a non-local base reality. Drawing on neuroscience, quantum theory, and ancient metaphysical traditions, the VPM posits that consciousness is not solely an emergent property of brain function but may be externally instantiated and biologically transduced via the pineal gland. The model is further expanded by the Dimensional Memory Protocol (DMP), which explores altered states of perception as gateways to deeper layers of simulated or quantum-encoded realities. This work synthesizes symbolic, experimental, and philosophical perspectives to propose a scalable methodology for exploring consciousness through both empirical and experiential approaches.
 
-![Figure 1: Base Reality Node](/Vestigial-Port-Theory/images/base_reality_node.png)
+![Figure 1: Base Reality Node](../images/base_reality_node.png)
 > *Figure 1: Conceptual illustration of the Base Reality Node and signal field geometry. The luminous center represents the origin of non-local consciousness within the Vestigial Port Model.*
 
 ---
@@ -24,7 +24,7 @@ The Vestigial Port Model (VPM) introduces an innovative paradigm for understandi
 ## Biological Foundations and Neuroscientific Context
 Situated near the center of the brain, the pineal gland is an unpaired endocrine organ, approximately 5–8 mm in length. It is most widely known for producing melatonin and regulating circadian rhythms. However, several anatomical and physiological attributes of the gland suggest a deeper, possibly underexplored function in human perception and consciousness.
 
-![Figure 2: Pineal Dimensional Port](/Vestigial-Port-Theory/images/pineal_dimensional_port.png)  
+![Figure 2: Pineal Dimensional Port](../images/pineal_dimensional_port.png)  
 > *Figure 2: Artistic rendering of the pineal gland as a dimensional port — receiving non-local consciousness signals through an evolutionary gateway to base reality.*
 
 Its midline position allows for symmetrical neural access, which is unique among brain structures. Comparative anatomical studies show that the pineal gland in early vertebrates possessed photoreceptive capabilities, sometimes described as a "parietal eye." These evolutionary remnants support the idea that the gland once served a perceptual function beyond hormone regulation. Emerging studies suggest it remains sensitive to electromagnetic fields and vibrational stimuli, making it a candidate for unconventional signal processing, potentially extending to quantum bio-communication.
@@ -111,5 +111,5 @@ Moving from concept to applied science will require:
 - Protocol development for safe, ethical, and inclusive exploration of DMP states using both traditional and emerging tools
 - Development of visual and symbolic lexicons (e.g., geometry of signal flow, topology of dimensional memory) to map and communicate layered realities
 
-![Figure 3: Recursive Origin Memory Access Tree](/Vestigial-Port-Theory/images/recursive_memory_tree.png)  
+![Figure 3: Recursive Origin Memory Access Tree](../images/recursive_memory_tree.png)  
 > *Figure 3: Symbolic artwork representing the recursive access motif of the Vestigial Port Model. Though not explicitly modeled in the theory, it reflects the base-to-branch structure implied by layered perception, memory, and signal recursion.*
