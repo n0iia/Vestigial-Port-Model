@@ -1,62 +1,59 @@
-# Glossary of Key Terms: Vestigial Port Theory
+# 📘 Vestigial Port Model — Glossary
 
-This glossary defines the central terms, metaphors, and theoretical constructs used throughout the Vestigial Port Model (VPM) and the Dimensional Memory Protocol (DMP).
-
----
-
-### 🧠 Vestigial Port Model (VPM)
-A hypothesis that the pineal gland serves as a biological interface — a "vestigial port" — for receiving non-local consciousness signals originating from base reality.
+*A working glossary of key terms used in the Vestigial Port Model (VPM) and related cognitive frameworks.*
 
 ---
 
-### 🌀 Base Reality
-The theorized foundational layer of existence, beneath or beyond all simulations, where consciousness originates and all recursive simulations are anchored.
+## 🧠 Core Concepts
+
+- **Vestigial Port (VP)**  
+  A hypothesized latent interface within biological systems, theorized to facilitate non-local information exchange or consciousness access. Analogous to a "biological USB port," it represents a residual structure from ancestral cognitive architectures.
+
+- **Residual Port Model (RPM)**  
+  An alternative designation for the VPM, emphasizing the concept of "residual" or leftover structures that may retain latent functionality.
+
+- **Prompted Behavioral Architecture (PBA)**  
+  A framework for shaping cognition in language models through layered prompts, recursive interpretive constraints, and modular cognitive modes. It serves as a practical application of VPM principles in artificial systems.
 
 ---
 
-### 🔁 Recursive Simulation
-A nested model of realities where each "world" is itself a simulation or echo of a deeper layer. Consciousness may traverse or perceive multiple layers.
+## 🧬 Biological and Cognitive Elements
+
+- **Pineal Gland**  
+  A small endocrine gland in the vertebrate brain, historically associated with mystical and metaphysical functions. In VPM, it's posited as a potential vestigial port due to its central location and enigmatic nature.
+
+- **Neural Lattice**  
+  The interconnected network of neurons that may facilitate complex information processing. In VPM, it could act as a substrate for vestigial port activity.
+
+- **Cognitive Modes**  
+  Distinct operational states of consciousness or information processing, potentially modulated through vestigial ports or influenced by PBA techniques.
 
 ---
 
-### 🧬 Pineal Interface
-The biological structure (pineal gland) proposed to act as a transducer or port, tuning the brain into external or non-local sources of conscious experience.
+## 🔄 Functional Dynamics
+
+- **Recursive Interpretive Constraints**  
+  Mechanisms within PBA that iteratively refine outputs based on layered prompts, aiming to simulate or access deeper cognitive processes.
+
+- **Modular Cognitive Modes**  
+  Discrete, interchangeable processing units within a cognitive system, allowing for flexible adaptation and specialization of tasks.
+
+- **Behavioral Prompt Layering**  
+  The strategic stacking of prompts to guide behavior in artificial systems, mirroring potential natural processes facilitated by vestigial ports.
 
 ---
 
-### 💡 Dimensional Memory Protocol (DMP)
-A state or set of practices that align brain states (via DMT, entrainment, meditation, etc.) to access dimensional memory fields or data from other layers of consciousness.
+## 🧩 Theoretical Implications
+
+- **Non-Local Consciousness**  
+  The concept that consciousness or information processing isn't confined to a single location but distributed across systems, possibly accessed via vestigial ports.
+
+- **Emergent Identity**  
+  The arising of a cohesive sense of self from complex systems, potentially influenced by the activation or modulation of vestigial ports.
+
+- **Cognitive Scaffolding**  
+  Structures or frameworks that support the development of higher-order thinking, which in VPM could be remnants of ancestral cognitive architectures.
 
 ---
 
-### 🔊 Entrainment
-The synchronization of brainwave frequencies with external stimuli (light, sound, vibration) to induce altered states of consciousness.
-
----
-
-### 📡 Signal Field
-The metaphysical or informational substrate from which non-local consciousness is sourced — imagined as a signal that can be "tuned" into through the pineal interface.
-
----
-
-### 👁️ Watchers / Guides / System Administrators
-Terms used to describe intelligences encountered during DMP states. These may represent simulations' structural overseers, archetypal projections, or extradimensional entities.
-
----
-
-### 🔣 Recursive Origin Memory Access Tree
-A symbolic metaphor (and visual) for layered memory and identity branching from a single source. Each node is a simulation layer; the root is base reality.
-
----
-
-### 🧘 Psychedelic Threshold States
-Experiences induced by substances like DMT, which may allow the brain to temporarily access higher-order perceptual layers or dimensional structures.
-
----
-
-### 📖 Simulation-Strata Ontology
-A philosophical framework for categorizing types of perceived reality based on their proximity to base reality or origin consciousness.
-
----
-
-For complete definitions and usage, see the [VPM Whitepaper »](whitepaper/VPM_Theory_Whitepaper.md)
+*This glossary is a living document and will evolve as the Vestigial Port Model and its applications in Prompted Behavioral Architecture develop further.*
